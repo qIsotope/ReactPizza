@@ -2,7 +2,6 @@
 	"name": "pizza",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://qisotope.github.io/pizza",
 	"dependencies": {
 		"@emailjs/browser": "^3.6.2",
 		"@reduxjs/toolkit": "^1.8.2",
